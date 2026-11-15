@@ -1,3 +1,29 @@
+# droidrun
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+用自然语言命令自动化操作移动设备的移动端 Agent，不绑定特定 LLM。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="./static/mobilerun-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="./static/mobilerun.png">
